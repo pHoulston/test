@@ -1,7 +1,7 @@
 #Test file to determine how changes are handled and what is recorced
 
 def do_the_thing():
-  return "The thing is done"
+  return "The thing is done a bit more"
 
 if __name__ == "main":
   do_the_thing()
